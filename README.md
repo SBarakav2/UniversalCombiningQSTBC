@@ -8,7 +8,7 @@ The combining scheme reduces the dimensions of the received symbols by factor of
 Further, the combining (as well as the transmission) does not require any channel knowledge (hence are called 'universal'),
 where the combining only necessitates linear operations over the received symbols.
 The resulting scheme is equivalent to a Quasi-Orthogonal MISO scheme by means of complexity and performance.
-==============================================================
+
 
 
 Steps:
@@ -16,7 +16,7 @@ Steps:
   1. open main.py
   2. change the values of 'n_t' and 'n_r' to be the number of the transmit and receive antennas.
   3. run the program, the results are printed in the screen.
-==============================================================
+
 
 Results representation:
 ==============================================================
